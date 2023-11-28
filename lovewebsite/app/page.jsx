@@ -1,3 +1,4 @@
+import { Example } from '@/components/Example';
 import React from 'react';
 
 
@@ -7,7 +8,7 @@ const App = () => {
 
   return (
     <div>
-      ok
+      <Example/>
 
     </div>
   );
